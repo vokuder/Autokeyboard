@@ -1,5 +1,5 @@
 # Autokeyboard:
-Small python script to automate keyboard events.
+Small python script to automate your keyboard with hotkeys.
 
 
 ### Setup:
