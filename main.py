@@ -22,4 +22,5 @@ def get_config():
 
 if __name__ == '__main__':
     for hotkey in get_config()["hotkeys"]:
-        threading.Thread(target=execute_hotkey, args=(hotkey,), daemon=True).run()
+        threading.Thread(target=execute_hotkey, args=(hotkey,), daemon=True).start()
+    keyboard.wait()

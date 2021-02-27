@@ -1,9 +1,15 @@
 {
   "hotkeys": [
     {
-      "trigger": "1",
+      "trigger": "x",
       "keys": ["a", "b", "c"],
-      "delay": 0,
+      "delay": 1,
+      "repetitions": 1
+    },
+    {
+      "trigger": "y",
+      "keys": ["d", "e", "f"],
+      "delay": 1,
       "repetitions": 1
     }
   ]
