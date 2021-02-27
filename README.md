@@ -10,7 +10,7 @@ python main.py
 ```
 
 ### Keyboard configuration:
-A json file (config.json) is used to configure keys.
+A json file [(config.json)](https://github.com/vokuder/Autokeyboard/blob/main/config.json) is used to configure keys.
 <br>Use the following template to configure your own keys:
 ```shell
 {
@@ -24,3 +24,5 @@ A json file (config.json) is used to configure keys.
   ]
 }
 ```
+This project highly depends on [python keyboard](https://github.com/boppreh/keyboard).
+<br>So you may want to check it out before you configure your keys.
