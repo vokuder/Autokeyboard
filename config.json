@@ -1,0 +1,10 @@
+{
+  "keys": [
+    {
+       "trigger": "a",
+       "automated_keys": ["b", "c"],
+       "delay_between": 2,
+       "repetitions": 2
+    }
+  ]
+}
