@@ -3,7 +3,7 @@ Small python script to automate keyboard events.
 
 
 ### Setup:
-Assuming you are sitting on python>=3.7
+Assuming you are sitting on python>=3.8
 ```shell
 pip install -r requirements.txt
 python main.py
