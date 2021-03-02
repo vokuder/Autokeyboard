@@ -14,7 +14,7 @@ A json file [(config.json)](https://github.com/vokuder/Autokeyboard/blob/main/co
 <br>Use the following template to configure your own keys:
 ```shell
 {
-  "keys": [
+  "hotkeys": [
     {
        "trigger": "a",
        "automated_keys": ["b", "c"],
